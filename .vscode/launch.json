@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Contador",
+            "request": "launch",
+            "mainClass": "app.Contador",
+            "projectName": "Desafiocontroledefluxo"
+        }
+    ]
+}
